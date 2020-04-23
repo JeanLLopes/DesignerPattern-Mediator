@@ -8,10 +8,10 @@ namespace Simple_Mediator.Structural
     {
         private Mediator mediator;
 
-        protected Colleague(Mediator mediator)
+        internal void SetMediator(Mediator mediator)
         {
             this.mediator = mediator;
-        }
+        } 
 
         public virtual void Send(string message)
         {
