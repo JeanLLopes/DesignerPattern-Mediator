@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/JeanLLopes/DesignerPattern-Mediator/workflows/.NET%20Core/badge.svg)
+
 # Designer Pattern Mediator
 O Mediator é um padrão de projeto comportamental que permite que você reduza as dependências caóticas entre objetos. O padrão restringe comunicações diretas entre objetos e os força a colaborar apenas através do objeto mediador.
 
