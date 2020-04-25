@@ -17,3 +17,8 @@ When are promimity
 <br>
 
 ## Mediator Web Api
+
+Using package [MediatR](https://github.com/jbogard/MediatR), we have the same result  
+
+![image](https://user-images.githubusercontent.com/12099889/80273031-3e3afb00-86a5-11ea-922e-49e485892150.png)
+
