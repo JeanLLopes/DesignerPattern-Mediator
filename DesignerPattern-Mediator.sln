@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple-Mediator", "Simple-Mediator\Simple-Mediator.csproj", "{526470C7-F382-4410-AB9C-AEA0386F72E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp-Mediator", "ChatApp\ChatApp-Mediator.csproj", "{863569DA-1C32-42D6-B69C-1A30473D13F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp-Mediator", "ChatApp\ChatApp-Mediator.csproj", "{863569DA-1C32-42D6-B69C-1A30473D13F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkerPositions", "MarkerPositions\MarkerPositions.csproj", "{A69E46A0-7DB2-4CFB-8CDD-43E6A6D8F6C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{863569DA-1C32-42D6-B69C-1A30473D13F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{863569DA-1C32-42D6-B69C-1A30473D13F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{863569DA-1C32-42D6-B69C-1A30473D13F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69E46A0-7DB2-4CFB-8CDD-43E6A6D8F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69E46A0-7DB2-4CFB-8CDD-43E6A6D8F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69E46A0-7DB2-4CFB-8CDD-43E6A6D8F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69E46A0-7DB2-4CFB-8CDD-43E6A6D8F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
